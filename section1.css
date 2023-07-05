@@ -1,9 +1,3 @@
-body {
-  overflow: hidden;
-  font-family: 'Fukwang', serif;
-  background: linear-gradient(135deg, black, #4a1a00);
-}
-
 .carousel {
   position: relative;
   z-index: 1;
